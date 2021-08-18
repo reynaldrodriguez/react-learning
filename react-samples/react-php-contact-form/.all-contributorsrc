@@ -1,0 +1,53 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "malithmcr",
+      "name": "Malith Priyashan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4549859?v=4",
+      "profile": "https://craftcode.design/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "bretwadleigh",
+      "name": "Bret Wadleigh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/923404?v=4",
+      "profile": "http://bretwadleigh.net",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "hans2103",
+      "name": "Hans Kuijpers",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/639822?v=4",
+      "profile": "https://hkweb.nl",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cscheerio",
+      "name": "cscheerio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49214389?v=4",
+      "profile": "https://github.com/cscheerio",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-php-contact-form",
+  "projectOwner": "malithmcr",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
