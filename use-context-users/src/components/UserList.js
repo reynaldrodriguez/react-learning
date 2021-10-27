@@ -7,7 +7,7 @@ const UserList = () => {
 
   useEffect(() => {
     getUsers();
-  }, []);
+  }, [getUsers]);
 
   return (
     <div className="list-group h-100">
